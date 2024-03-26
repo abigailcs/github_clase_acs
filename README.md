@@ -1,2 +1,2 @@
 # github_clase_acs
-clase github abigail
+actividades github curso aprendeR
